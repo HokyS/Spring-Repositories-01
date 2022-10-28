@@ -3,7 +3,7 @@ package com.example.SpringRepositories01.entities;
 import javax.persistence.*;
 
 @Entity
-@Table
+@Table(name = "cars")
 public class Car {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
