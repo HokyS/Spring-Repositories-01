@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/hybernate_exercise
+    url: jdbc:mysql://localhost:3306/ExerciseDB
     username: root
     password: Mario[1996]cotumaccio!
     driver-class-name: com.mysql.cj.jdbc.Driver
